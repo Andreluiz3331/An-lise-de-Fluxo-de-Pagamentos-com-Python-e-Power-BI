@@ -12,6 +12,7 @@ Este projeto foi desenvolvido com o objetivo de analisar o fluxo de pagamentos a
 - Oferecer filtros dinâmicos para visualizações personalizadas.
 - Comparar a variação percentual entre os meses.
 - Monitorar o total acumulado dos pagamentos mensalmente.
+- Identificar rapidamente se os pagamentos do mês estão próximos de ultrapassar o valor limite definido.
 
 ---
 
@@ -37,7 +38,13 @@ Este projeto foi desenvolvido com o objetivo de analisar o fluxo de pagamentos a
 - Apresenta o somatório progressivo dos valores pagos ao longo do tempo.
 - Útil para planejamento financeiro e controle de fluxo de caixa.
 
----
+### ✅ 6. **Monitoramento do Limite de Pagamentos**
+- Este gráfico foi desenvolvido para acompanhar a evolução dos pagamentos ao longo do mês e indicar visualmente o nível de comprometimento do limite financeiro pré-definido (ex: R$ 100.000).
+
+- A proposta é criar uma representação visual semelhante a um termômetro, onde a medida que novos pagamentos são registrados, o indicador vai "subindo", mostrando quanto do limite já foi utilizado.
+
+- Esse gráfico ajuda no controle orçamentário mensal, permitindo agir com antecedência caso os pagamentos se aproximem do teto estipulado.
+
 
 ## 🖥️ Tecnologias Utilizadas
 
